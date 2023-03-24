@@ -12,7 +12,7 @@ Create Opportunity
     ClickText     New
     UseModal      On
     ComboBox      Search Accounts...          BarrySanders 2023-03-22 16:42:47.645
-    TypeText      *Opportunity Name           CRT Test
+    TypeText      *Opportunity Name           This is my 2nd test
     TypeText      Amount                      300000
     TypeText      *Close Date                 3/31/2023
     TypeText      Probability (%)             50
